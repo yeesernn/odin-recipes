@@ -6,3 +6,6 @@ Today in Web Dev university class we are already doing CSS FlexBox when today is
 I had a lot of difficulty trying to structure the webpage and make it work like how I wanted it to.
 
 After this project I hope to be able to have more HTML fundamentals drilled into my mind.
+
+Links to the source of the recipes:
+1. Braised pork - https://thewoksoflife.com/shanghai-style-braised-pork-belly/
